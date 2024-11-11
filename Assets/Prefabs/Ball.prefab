@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 6702252383815004167}
   - component: {fileID: 8889472804650300446}
   - component: {fileID: 4442623377605862165}
+  - component: {fileID: -440788523431544215}
   m_Layer: 0
   m_Name: Ball
   m_TagString: Ball
@@ -276,3 +277,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BounceSound: {fileID: 8300000, guid: 7ccaacab080b3482eb8db525c1339df4, type: 3}
   SparksPrefab: {fileID: 6473537412159207412, guid: 9efb682d6fe3644b58204ee1e3429403, type: 3}
+--- !u!114 &-440788523431544215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470467174639662717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77345ce6c27094367b4a40d6ab4ea8ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BounceSound: {fileID: 8300000, guid: 4eb83e83360e9429c81c65ccb7b87c60, type: 3}
+  SparksPrefab: {fileID: 8499482659391049344, guid: d2739ce538dc145b2bb9aafde86a8742, type: 3}
