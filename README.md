@@ -10,27 +10,29 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
-* **Date**      - 
+* **Project**   - Juicy pong
+* **Your Name** - Alessandra Nageotte
+* **Date**      - Nov 11, 2024
 
 <br>
 
 1. **What are the controls to your game? How do we play?**
 
-
+Use w/s to move left paddle, and up/down arrows to move right paddle. Keep the ball from moving past the paddles.
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
 
-
+I added a camera shake for when the ball hits an object, and particles effects, along with sound effects.
 
 <br>
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
 Robot Crush font https://www.dafont.com/robot-crush.font
+background music https://freesound.org/people/jeroen1997/sounds/249753/
+collision sound https://freesound.org/people/TV_LING/sounds/523467/
 
 <br>
 
@@ -53,7 +55,7 @@ Robot Crush font https://www.dafont.com/robot-crush.font
 <br>
 
 7. **What trouble did you have with this project?**
-
+I couldn't figure out how to do a seperate camera shake/particle effect for when the deathzone gets triggered.
 
 
 <br>
